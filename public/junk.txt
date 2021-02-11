@@ -1,0 +1,45 @@
+        // markers.addLayer(marker);
+
+        // map.addLayer(markers)
+
+        // function render() {
+
+        //     // alert("Asd");
+
+        // }
+
+
+
+        // setInterval(() => { render(); }, 100);
+
+        // let marker = L.marker([51.5, -0.09]).addTo(map);
+
+        // shops_latlng.forEach((shop) => {
+
+        //     let route = L.Routing.control({
+        //         waypoints: [
+        //             current_loc,
+        //             shop
+        //         ]
+        //     }).addTo(map)
+
+        // })
+
+        // let route = L.Routing.control({
+        // waypoints: [
+        //     L.latLng(57.74, 11.94),
+        //     L.latLng(57.74, 11.95),
+        //     L.latLng(57.6792, 11.949)
+        // ]
+        // });
+
+        // route.addTo(map)
+
+        // map.removeControl(route)
+
+        // route.on("routesfound", (e) => {
+        //     let routes = e.routes;
+        //     let summary = routes[0].summary;
+
+        //     // alert("total distance is" + (summary.totalDistance / 1000).toFixed(2) + "km and total time is " + Math.round(summary.totalTime % 3600 / 60) + "minutes");
+        // });
